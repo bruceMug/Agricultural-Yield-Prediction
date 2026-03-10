@@ -1,0 +1,6 @@
+*.nc
+
+0*
+
+soil_moisture_dekadal.csv
+yield_classifier_dataset.csv
